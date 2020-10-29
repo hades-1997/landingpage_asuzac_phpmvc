@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e9fbfe4-6164-44e1-850e-88e645a6274d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1j4fmSS5Jyjn6AzNmdolFmonFxF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mvc/Admin/assets/js/timy" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\landingpage_asuzac\mvc\Admin\assets\js\timy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\landingpage_asuzac\mvc\Admin" />
+      <recent name="C:\xampp\htdocs\landingpage_asuzac\mvc\controllers" />
+      <recent name="C:\xampp\htdocs\landingpage_asuzac\mvc\Admin\assets\js\timy" />
+      <recent name="C:\xampp\htdocs\landingpage_asuzac\mvc\Admin\page" />
+      <recent name="C:\xampp\htdocs\landingpage_asuzac\mvc\Admin\page\feature" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e9fbfe4-6164-44e1-850e-88e645a6274d" name="Default Changelist" comment="" />
+      <created>1603068442487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603068442487</updated>
+      <workItem from="1603068443539" duration="24783000" />
+      <workItem from="1603154575068" duration="26850000" />
+      <workItem from="1603248799644" duration="17210000" />
+      <workItem from="1603326304442" duration="22504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#PHP" timestamp="1603092746968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603092746968" />
+    <state x="446" y="22" key="#com.intellij.ide.util.MemberChooser" timestamp="1603342446971">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1603342446971" />
+    <state x="302" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603254563478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603174331396" />
+    <state x="302" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1603254563478" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603091791826">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603091791826" />
+    <state x="422" y="63" key="NewPhpClassDialog" timestamp="1603174186012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="63" key="NewPhpClassDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603174186012" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1603354194032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603184293287" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1603354194032" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1603166041426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603166041426" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/mvc/core/Controller.php</url>
+          <line>14</line>
+          <properties>
+            <option name="className" value="\Controller" />
+            <option name="methodName" value="viewadmin" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/mvc/controllers/Login.php</url>
+          <line>4</line>
+          <properties>
+            <option name="className" value="\Register" />
+            <option name="methodName" value="__construct" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/../test_asuzac/mvc/model/InsertDatabaseModel.php</url>
+          <line>13</line>
+          <properties>
+            <option name="className" value="\InsertDatabaseModel" />
+            <option name="methodName" value="checkUsername" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mvc/model/InsertTableCustomerModel.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mvc/controllers/Register.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mvc/Admin/block/head.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mvc/Admin/page/addemployee.php</url>
+          <line>67</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
